@@ -36,11 +36,13 @@ if __name__ == '__main__':
     llist = Linkedlist()
 
     # Getting User Input
-    numbers = list(map(int, input("Enter Numbers: ").split()))
+    n = int(input("Enter number of elements to be added: "))
 
     # Creating and Linking each node
-    for i in numbers:
-        Linkedlist.insert(llist, i)
+    for i in range(1, n+1):
+        print("Enter value%d: " % i, end='')
+        value = input()
+        Linkedlist.insert(llist, value)
 
     # Displaying each Node in a linkedlist
     Linkedlist.print_linkedlist(llist)
