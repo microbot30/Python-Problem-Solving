@@ -30,15 +30,17 @@ class Linkedlist:
             temp = temp.next
 
 
-# Creating a Head node
-llist = Linkedlist()
+if __name__ == '__main__':
 
-# Getting User Input
-numbers = list(map(int, input("Enter Numbers: ").split()))
+    # Creating a Head node
+    llist = Linkedlist()
 
-# Creating and Linking each node
-for i in numbers:
-    Linkedlist.insert(llist, i)
+    # Getting User Input
+    numbers = list(map(int, input("Enter Numbers: ").split()))
 
-# Displaying each Node in a linkedlist
-Linkedlist.print_linkedlist(llist)
+    # Creating and Linking each node
+    for i in numbers:
+        Linkedlist.insert(llist, i)
+
+    # Displaying each Node in a linkedlist
+    Linkedlist.print_linkedlist(llist)
