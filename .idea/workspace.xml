@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20670e6d-c1c9-4396-a80c-fc6f8047f9f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/python projects/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/python projects/fizzbuzz.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Harish Sanmugam J" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/microbot30/Python-Problem-Solving.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gaZzc3oSyC6AcHgminr2g234VD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tensorflow Projects" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AppData\PyCharm\PycharmProjects\Github\Python-Problem-Solving\python projects\Excel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AppData\PyCharm\PycharmProjects\Github\Python-Problem-Solving\python projects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fizzbuzz">
+    <configuration name="LinkedList01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects/Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python projects/Data Structures/LinkedList01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedList02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects/Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python projects/Data Structures/LinkedList02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="area and perimeter" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python projects/area and perimeter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emoji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python projects/emoji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\AppData\PyCharm\PycharmProjects\Github\Python-Problem-Solving\python projects\Excel\excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python projects/fizzbuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python-Problem-Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python projects/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fizzbuzz" />
+        <item itemvalue="Python.LinkedList02" />
+        <item itemvalue="Python.LinkedList01" />
+        <item itemvalue="Python.emoji" />
+        <item itemvalue="Python.excel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20670e6d-c1c9-4396-a80c-fc6f8047f9f2" name="Default Changelist" comment="" />
+      <created>1596980036379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596980036379</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First file for testing git!">
+      <created>1596980752736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596980752737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New project using classes and object">
+      <created>1597124487961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597124487961</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ecel and emoji files added!">
+      <created>1598000224706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598000224706</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Data Structures folder added!">
+      <created>1598193233616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598193233616</updated>
+    </task>
+    <task id="LOCAL-00005" summary="main function added to LinkedList02.py">
+      <created>1598193379135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598193379135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated main function in LinkedList02.py">
+      <created>1598193672175</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598193672175</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated main function in LinkedList02.py">
+      <created>1598356101291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598356101291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="TalentSprint project!">
+      <created>1598356226162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598356226162</updated>
+    </task>
+    <task id="LOCAL-00009" summary="TalentSprint project!">
+      <created>1598357148122</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598357148122</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First file for testing git!" />
+    <MESSAGE value="New project using classes and object" />
+    <MESSAGE value="Ecel and emoji files added!" />
+    <MESSAGE value="Data Structures folder added!" />
+    <MESSAGE value="main function added to LinkedList02.py" />
+    <MESSAGE value="Updated main function in LinkedList02.py" />
+    <MESSAGE value="TalentSprint project!" />
+    <option name="LAST_COMMIT_MESSAGE" value="TalentSprint project!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1598357147452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598357147452" />
+    <state width="1253" height="146" key="GridCell.Tab.0.bottom" timestamp="1598357976530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598357976530" />
+    <state width="1253" height="146" key="GridCell.Tab.0.center" timestamp="1598357976530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598357976530" />
+    <state width="1253" height="146" key="GridCell.Tab.0.left" timestamp="1598357976530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598357976530" />
+    <state width="1253" height="146" key="GridCell.Tab.0.right" timestamp="1598357976530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598357976530" />
+  </component>
+</project>
