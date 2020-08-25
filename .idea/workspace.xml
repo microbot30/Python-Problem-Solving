@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20670e6d-c1c9-4396-a80c-fc6f8047f9f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python projects/fizzbuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python projects/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/python projects/fizzbuzz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/microbot30/Python-Problem-Solving.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1gaZzc3oSyC6AcHgminr2g234VD" />
   <component name="ProjectLevelVcsManager">
@@ -263,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598193672175</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated main function in LinkedList02.py">
+      <created>1598356101291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598356101291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="TalentSprint project!">
+      <created>1598356226162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598356226162</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,24 +294,29 @@
     <MESSAGE value="Data Structures folder added!" />
     <MESSAGE value="main function added to LinkedList02.py" />
     <MESSAGE value="Updated main function in LinkedList02.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated main function in LinkedList02.py" />
+    <MESSAGE value="TalentSprint project!" />
+    <option name="LAST_COMMIT_MESSAGE" value="TalentSprint project!" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1253" height="146" key="GridCell.Tab.0.bottom" timestamp="1598355982755">
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1598356225456">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1253" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598355982755" />
-    <state width="1253" height="146" key="GridCell.Tab.0.center" timestamp="1598355982755">
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598356225456" />
+    <state width="1253" height="146" key="GridCell.Tab.0.bottom" timestamp="1598357062834">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1253" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598355982755" />
-    <state width="1253" height="146" key="GridCell.Tab.0.left" timestamp="1598355982755">
+    <state width="1253" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598357062834" />
+    <state width="1253" height="146" key="GridCell.Tab.0.center" timestamp="1598357062834">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1253" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598355982755" />
-    <state width="1253" height="146" key="GridCell.Tab.0.right" timestamp="1598355982755">
+    <state width="1253" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598357062834" />
+    <state width="1253" height="146" key="GridCell.Tab.0.left" timestamp="1598357062834">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1253" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598355982755" />
+    <state width="1253" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598357062834" />
+    <state width="1253" height="146" key="GridCell.Tab.0.right" timestamp="1598357062834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598357062834" />
   </component>
 </project>
